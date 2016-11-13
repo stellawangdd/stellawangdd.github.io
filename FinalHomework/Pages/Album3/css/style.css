@@ -1,0 +1,39 @@
+header {
+    background-image: url(https://unsplash.it/1000?image=1002);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+.navbar {
+
+   
+}
+
+.container {
+    width: 70%;
+}
+
+section {
+    margin-bottom: 10px;
+}
+
+footer {
+    padding: 20px;
+    background: #40414e;
+    color: white;
+}
+
+footer .container {
+    width: 80%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
